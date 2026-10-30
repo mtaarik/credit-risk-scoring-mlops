@@ -3,7 +3,6 @@
 .venv/
 venv/
 notebooks/
-mlruns/
 data/raw/
 __pycache__/
 *.pyc
